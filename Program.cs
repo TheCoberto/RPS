@@ -120,8 +120,8 @@ while (gameOn == true)
     {
         Console.Clear();
         Console.WriteLine("Do you want to player another game? If so, write 'yes'.");
-        var poop = Console.ReadLine();
-        if (poop.ToLower() == "yes")
+        userInput = Console.ReadLine();
+        if (userInput.ToLower() == "yes")
         {
             gameOn = true;
             humanScore = 0;
