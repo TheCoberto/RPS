@@ -1,0 +1,15 @@
+C:\Repos\RPS\bin\Debug\net6.0\RPS.exe
+C:\Repos\RPS\bin\Debug\net6.0\RPS.deps.json
+C:\Repos\RPS\bin\Debug\net6.0\RPS.runtimeconfig.json
+C:\Repos\RPS\bin\Debug\net6.0\RPS.dll
+C:\Repos\RPS\bin\Debug\net6.0\RPS.pdb
+C:\Repos\RPS\obj\Debug\net6.0\RPS.csproj.AssemblyReference.cache
+C:\Repos\RPS\obj\Debug\net6.0\RPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\RPS\obj\Debug\net6.0\RPS.AssemblyInfoInputs.cache
+C:\Repos\RPS\obj\Debug\net6.0\RPS.AssemblyInfo.cs
+C:\Repos\RPS\obj\Debug\net6.0\RPS.csproj.CoreCompileInputs.cache
+C:\Repos\RPS\obj\Debug\net6.0\RPS.dll
+C:\Repos\RPS\obj\Debug\net6.0\refint\RPS.dll
+C:\Repos\RPS\obj\Debug\net6.0\RPS.pdb
+C:\Repos\RPS\obj\Debug\net6.0\RPS.genruntimeconfig.cache
+C:\Repos\RPS\obj\Debug\net6.0\ref\RPS.dll
